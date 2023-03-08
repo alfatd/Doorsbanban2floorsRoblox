@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "false",
             "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "false",
             "name" : "more",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/8.png",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/8.png",
             "bg" : "#673AB7"
         }
     ],
@@ -265,58 +265,58 @@
     
     "scratch" : [
         {
-            "img" : "https://i.quotev.com/nmk7j5mjtdla.jpg"
+            "img" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/wall/1.png"
         },{
-            "img" : "https://i.quotev.com/enuv4jhvydrq.jpg"
+            "img" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/wall/2.png"
         },{
-            "img" : "https://i.quotev.com/tl2gy3ok3zwa.jpg"
+            "img" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/wall/10.png"
         },{
-            "img" : "https://i.quotev.com/yq67tsyngxxa.jpg"
+            "img" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/wall/9.png"
         },{
-            "img" : "https://i.quotev.com/ni63wy6edkva.jpg"
+            "img" : "https://raw.githubusercontent.com/alfatd/Doorsbanban2floorsRoblox/main/wall/8.png"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+            "img" : "https://media.tenor.com/TBo230COxMkAAAAC/garten-of-banban-garten.gif"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://media.tenor.com/1cZNqVB54aQAAAAd/aarcade-banban.gif"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://media.tenor.com/l3tcHYjgUvYAAAAC/garten-of-banban-laugh.gif"
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://media.tenor.com/OTssbg2_XskAAAAC/garten-of-banban-get-real.gif"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://media.tenor.com/1cZNqVB54aQAAAAd/aarcade-banban.gif"
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://media.tenor.com/MJ2umoFc7PkAAAAS/doors-roblox.gif"
         },
         {
             "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://media.tenor.com/hlR1547BdTQAAAAS/doors-roblox.gif"
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://tr.rbxcdn.com/99609b3d7d6ec158c8fa6f7593d1f6c9/768/432/Image/Png"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+            "img" : "https://tr.rbxcdn.com/acd1a97a5fd75bc5033f842a900d2e79/768/432/Image/Png"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+            "img" : "https://tr.rbxcdn.com/ba59f1801eb01f11c7f89698db7067e5/768/432/Image/Png"
         }
     ],
     
